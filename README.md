@@ -1,5 +1,6 @@
 #  Chips Input Component (React + TypeScript)
 
+
 This project is a **Chips Input UI component** built with **React** and **TypeScript**, styled using inline CSS with a sleek **dark theme**.
 
 It allows users to:
