@@ -10,7 +10,6 @@ It allows users to:
 
 ---
 
-
 ##  Features
 
 -  Dark Theme UI
